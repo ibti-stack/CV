@@ -1,0 +1,22 @@
+body {
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 2%;
+}
+
+#title {
+    margin-bottom: -15px;
+}
+#firmone {
+    margin-top: 2px;
+}
+#firmtwo {
+    margin-top: 2px;
+}
+#firmthree {
+    margin-top: 2px;
+}
+#year{
+    margin-top: -15px;
+}
